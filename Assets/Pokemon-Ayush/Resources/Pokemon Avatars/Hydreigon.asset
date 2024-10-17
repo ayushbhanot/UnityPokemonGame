@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0789c39fb5c54a70bb7f4749902f3d8, type: 3}
+  m_Name: Hydreigon
+  m_EditorClassIdentifier: 
+  name: Hydreigon
+  description: Zweilous Evolution
+  frontEnd: {fileID: 9100000, guid: aa0c7a98a0068427eae6c10cf8acee4a, type: 2}
+  backEnd: {fileID: 9100000, guid: 2686d020c83054c23b2b1dc18bb3be09, type: 2}
+  type1: 5
+  type2: 0
+  maxhp: 92
+  attackdamage: 105
+  defense: 90
+  spattack: 125
+  catchRate: 240
+  expYield: 300
+  growthRate: 1
+  evolutions: []
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 8ac15ee0c75314b10bb4240bea003f85, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 1f1db82e24cc2447694f68b218f00970, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 03533e6aafabf45799ef7808a6e4352d, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 2f986e58689764476885cb4470d61336, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: f71453bd116c641439a2c7bf86867c83, type: 2}
+    level: 15

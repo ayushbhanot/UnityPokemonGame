@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0789c39fb5c54a70bb7f4749902f3d8, type: 3}
+  m_Name: Samurott
+  m_EditorClassIdentifier: 
+  name: Samurott
+  description: 
+  frontEnd: {fileID: 9100000, guid: 521287c90c150474e9a8294d24eb2ac6, type: 2}
+  backEnd: {fileID: 9100000, guid: ea335c8c97ea641ba904c1c445b5f3e8, type: 2}
+  type1: 3
+  type2: 6
+  maxhp: 95
+  attackdamage: 100
+  defense: 85
+  spattack: 108
+  catchRate: 150
+  expYield: 300
+  growthRate: 1
+  evolutions: []
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 146d420a40cfd45e69f9d0e75b1d0e51, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 03533e6aafabf45799ef7808a6e4352d, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 1f1db82e24cc2447694f68b218f00970, type: 2}
+    level: 9
+  - moveBase: {fileID: 11400000, guid: 5e5971b2b28e64da7a6cd9428b6f2c5a, type: 2}
+    level: 11

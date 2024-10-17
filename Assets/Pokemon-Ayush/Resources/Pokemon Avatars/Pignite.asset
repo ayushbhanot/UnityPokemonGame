@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0789c39fb5c54a70bb7f4749902f3d8, type: 3}
+  m_Name: Pignite
+  m_EditorClassIdentifier: 
+  name: Pignite
+  description: 
+  frontEnd: {fileID: 9100000, guid: 3fa5080d65082447b8af397625b1ece0, type: 2}
+  backEnd: {fileID: 9100000, guid: 2d199fdf04bc3424cba29e27787a0d54, type: 2}
+  type1: 2
+  type2: 0
+  maxhp: 90
+  attackdamage: 93
+  defense: 55
+  spattack: 70
+  catchRate: 240
+  expYield: 180
+  growthRate: 0
+  evolutions:
+  - evolvesInto: {fileID: 11400000, guid: aa0cf769a73ff43da89b52993dc8ac4c, type: 2}
+    requiredLevel: 12
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 7bc00e75154f4445ea79da5dbe8bcf05, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: da917e8f578ce48f2bb30fc28163351f, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 31a796d7fc6ca47708318415ef884ab8, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 03533e6aafabf45799ef7808a6e4352d, type: 2}
+    level: 0

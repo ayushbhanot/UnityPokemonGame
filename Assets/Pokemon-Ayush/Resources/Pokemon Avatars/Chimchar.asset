@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0789c39fb5c54a70bb7f4749902f3d8, type: 3}
+  m_Name: Chimchar
+  m_EditorClassIdentifier: 
+  name: Chimchar
+  description: Starter Pokemon
+  frontEnd: {fileID: 9100000, guid: b56b2e6c8616447808b1623b4d8f21ec, type: 2}
+  backEnd: {fileID: 9100000, guid: 41c15a855623c4808ba013a7ace93db7, type: 2}
+  type1: 2
+  type2: 0
+  maxhp: 44
+  attackdamage: 58
+  defense: 44
+  spattack: 56
+  catchRate: 240
+  expYield: 120
+  growthRate: 0
+  evolutions:
+  - evolvesInto: {fileID: 11400000, guid: 5ed75a861633a4236aa21b881a4b715e, type: 2}
+    requiredLevel: 7
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: da917e8f578ce48f2bb30fc28163351f, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 7bc00e75154f4445ea79da5dbe8bcf05, type: 2}
+    level: 3

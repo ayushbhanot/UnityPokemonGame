@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0789c39fb5c54a70bb7f4749902f3d8, type: 3}
+  m_Name: Oshawatt
+  m_EditorClassIdentifier: 
+  name: Oshawatt
+  description: 
+  frontEnd: {fileID: 9100000, guid: 40996daa20174404c96c0fb6ed779eb9, type: 2}
+  backEnd: {fileID: 9100000, guid: 27232b7f6c0a44aaabed48ab29329a73, type: 2}
+  type1: 3
+  type2: 0
+  maxhp: 55
+  attackdamage: 55
+  defense: 45
+  spattack: 63
+  catchRate: 230
+  expYield: 120
+  growthRate: 0
+  evolutions:
+  - evolvesInto: {fileID: 0}
+    requiredLevel: 7
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: da917e8f578ce48f2bb30fc28163351f, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 146d420a40cfd45e69f9d0e75b1d0e51, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 03533e6aafabf45799ef7808a6e4352d, type: 2}
+    level: 2

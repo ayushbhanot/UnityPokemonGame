@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0789c39fb5c54a70bb7f4749902f3d8, type: 3}
+  m_Name: Blastoise
+  m_EditorClassIdentifier: 
+  name: Blastoise
+  description: 
+  frontEnd: {fileID: 9100000, guid: d8d8e081c9d3341beaced219fc330dcb, type: 2}
+  backEnd: {fileID: 9100000, guid: 5b753ae630aab41159a622778634b173, type: 2}
+  type1: 3
+  type2: 0
+  maxhp: 79
+  attackdamage: 83
+  defense: 100
+  spattack: 85
+  catchRate: 170
+  expYield: 300
+  growthRate: 1
+  evolutions: []
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: da917e8f578ce48f2bb30fc28163351f, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 89f58b510ff2a4da0925b349dcc26c6e, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 146d420a40cfd45e69f9d0e75b1d0e51, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 2f986e58689764476885cb4470d61336, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: ce3b1fe90dbe8434e995b3d6622d641e, type: 2}
+    level: 15

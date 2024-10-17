@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0789c39fb5c54a70bb7f4749902f3d8, type: 3}
+  m_Name: Wartortle
+  m_EditorClassIdentifier: 
+  name: Wartortle
+  description: 
+  frontEnd: {fileID: 9100000, guid: 27e77bef37c2e4f678b81127d6025240, type: 2}
+  backEnd: {fileID: 9100000, guid: 7f4d1d8bc0fb9413a8dd744f1b6fc2ac, type: 2}
+  type1: 3
+  type2: 0
+  maxhp: 59
+  attackdamage: 63
+  defense: 80
+  spattack: 65
+  catchRate: 240
+  expYield: 180
+  growthRate: 0
+  evolutions:
+  - evolvesInto: {fileID: 11400000, guid: 25132d183a23b4db3adb64808c72d183, type: 2}
+    requiredLevel: 12
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 03533e6aafabf45799ef7808a6e4352d, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 146d420a40cfd45e69f9d0e75b1d0e51, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 1f1db82e24cc2447694f68b218f00970, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 89f58b510ff2a4da0925b349dcc26c6e, type: 2}
+    level: 9

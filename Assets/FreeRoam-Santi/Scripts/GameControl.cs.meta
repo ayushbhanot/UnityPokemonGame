@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e21fc5bc632c6469c865a8c622d70b3c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerController: {instanceID: 0}
+  - battleSystem: {instanceID: 0}
+  - worldCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

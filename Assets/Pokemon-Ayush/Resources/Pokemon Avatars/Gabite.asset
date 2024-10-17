@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0789c39fb5c54a70bb7f4749902f3d8, type: 3}
+  m_Name: Gabite
+  m_EditorClassIdentifier: 
+  name: Gabite
+  description: Gible Evolution
+  frontEnd: {fileID: 9100000, guid: b209e8840a5ce4f36bc5b5dd6ee2714c, type: 2}
+  backEnd: {fileID: 9100000, guid: 1f1ffc76dcca344f6b3d8e8680742814, type: 2}
+  type1: 3
+  type2: 0
+  maxhp: 68
+  attackdamage: 90
+  defense: 65
+  spattack: 50
+  catchRate: 240
+  expYield: 180
+  growthRate: 0
+  evolutions:
+  - evolvesInto: {fileID: 11400000, guid: 6e93857f29f24471fa5eee8dec51c098, type: 2}
+    requiredLevel: 12
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: da917e8f578ce48f2bb30fc28163351f, type: 2}
+    level: 2
+  - moveBase: {fileID: 11400000, guid: 2f986e58689764476885cb4470d61336, type: 2}
+    level: 2
+  - moveBase: {fileID: 11400000, guid: 146d420a40cfd45e69f9d0e75b1d0e51, type: 2}
+    level: 2
+  - moveBase: {fileID: 11400000, guid: 1f1db82e24cc2447694f68b218f00970, type: 2}
+    level: 2

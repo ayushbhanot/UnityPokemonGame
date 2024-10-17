@@ -1,0 +1,651 @@
+<!DOCTYPE html>
+<div class="bg-global-menu bg-bulbapedia-menu">
+<a href="https://bulbagarden.net" class="bg-global-nav-logo"></a>
+<nav class="bg-global-nav">
+<ul class="bg-global-nav-primary">
+<li class="bg-global-nav-primary-item">
+<a href="https://bulbagarden.net" class="bg-global-nav-primary-link ">News</a>
+</li>
+<li class="bg-global-nav-primary-item bg-global-nav-primary-haschildren">
+<a href="https://bulbapedia.bulbagarden.net/" class="bg-global-nav-primary-link bg-global-nav-primary-toggle selected">Bulbapedia</a>
+<ul class="bg-global-nav-primary-children">
+<li class="bg-global-nav-secondary row">
+<ul>
+<li class="bg-global-nav-secondary-item bulbapedia">
+<a href="https://bulbapedia.bulbagarden.net/" class="bg-global-nav-secondary-link">Bulbapedia main page</a>
+</li>
+</ul>
+</li>
+<li class="bg-global-nav-secondary">
+<ul>
+<li class="bg-global-nav-secondary-item header">Pokémon</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/List_of_Pokémon_by_National_Pokédex_number" class="bg-global-nav-secondary-link">National Pokédex</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_name" class="bg-global-nav-secondary-link">By Name</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Legendary_Pok%C3%A9mon" class="bg-global-nav-secondary-link">Legendary</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Mythical_Pok%C3%A9mon" class="bg-global-nav-secondary-link">Mythical</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Event_Pok%C3%A9mon" class="bg-global-nav-secondary-link">Event Pokémon</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Noble_Pokémon" class="bg-global-nav-secondary-link">Noble Pokémon</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Alpha_Pokémon" class="bg-global-nav-secondary-link">Alpha Pokémon</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Titan_Pok%C3%A9mon" class="bg-global-nav-secondary-link">Titan Pokémon</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon" class="bg-global-nav-secondary-link">more...</a>
+</li>
+</ul>
+</li>
+<li class="bg-global-nav-secondary">
+<ul>
+<li class="bg-global-nav-secondary-item header">Mechanics</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Type" class="bg-global-nav-secondary-link">Types</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Type#Type_chart" class="bg-global-nav-secondary-link">Type Chart</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Category:Abilities" class="bg-global-nav-secondary-link">Abilities</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Nature#List_of_Natures" class="bg-global-nav-secondary-link">Nature</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Status_condition" class="bg-global-nav-secondary-link">Status Conditions</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Category:Moves" class="bg-global-nav-secondary-link">Moves</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Category:Items" class="bg-global-nav-secondary-link">Items</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Terastal_phenomenon" class="bg-global-nav-secondary-link">Terastal Phenomenon</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Category:Game_mechanics" class="bg-global-nav-secondary-link">more...</a>
+</li>
+</ul>
+</li>
+<li class="bg-global-nav-secondary">
+<ul>
+<li class="bg-global-nav-secondary-item header">Games</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Category:Walkthroughs" class="bg-global-nav-secondary-link">Walkthroughs</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Scarlet_and_Violet" class="bg-global-nav-secondary-link">Scarlet and Violet</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Pokémon_Legends:_Arceus" class="bg-global-nav-secondary-link">Pokémon Legends: Arceus</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Pokémon_Brilliant_Diamond_and_Shining_Pearl" class="bg-global-nav-secondary-link">Pokémon Brilliant Diamond and Shining Pearl</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Category:Pok%C3%A9mon_Sword_and_Shield" class="bg-global-nav-secondary-link">Sword & Shield</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Spin-off_Pok%C3%A9mon_games" class="bg-global-nav-secondary-link">Spin Offs</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Category:Pok%C3%A9mon_GO" class="bg-global-nav-secondary-link">GO</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Masters_EX" class="bg-global-nav-secondary-link">Masters EX</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Category:Games" class="bg-global-nav-secondary-link">all games...</a>
+</li>
+</ul>
+</li>
+<li class="bg-global-nav-secondary">
+<ul>
+<li class="bg-global-nav-secondary-item header">TCG</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Trading_Card_Game" class="bg-global-nav-secondary-link">About</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Trading_Card_Game#How_to_play" class="bg-global-nav-secondary-link">How to Play</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Rotation_(TCG)" class="bg-global-nav-secondary-link">Rotation</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Promotional_cards_(TCG)" class="bg-global-nav-secondary-link">Promotional Cards</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Scarlet_%26_Violet_(TCG)" class="bg-global-nav-secondary-link">Scarlet and Violet</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Paldea_Evolved_(TCG)" class="bg-global-nav-secondary-link">Paldea Evolved</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Obsidian_Flames_(TCG)" class="bg-global-nav-secondary-link">Obsidian Flames</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/151_(TCG)" class="bg-global-nav-secondary-link">151</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Paradox_Rift_(TCG)" class="bg-global-nav-secondary-link">Paradox Rift</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Paldean_Fates_(TCG)" class="bg-global-nav-secondary-link">Paldean Fates</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Temporal_Forces_(TCG)" class="bg-global-nav-secondary-link">Temporal Forces</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_Trading_Card_Game_expansions" class="bg-global-nav-secondary-link">all expansions...</a>
+</li>
+</ul>
+</li>
+<li class="bg-global-nav-secondary">
+<ul>
+<li class="bg-global-nav-secondary-item header">Anime & Manga</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Category:Anime" class="bg-global-nav-secondary-link">Anime</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Horizons:_The_Series" class="bg-global-nav-secondary-link">Pokémon Horizons</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Concierge" class="bg-global-nav-secondary-link">Pokémon Concierge</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/List_of_anime_characters" class="bg-global-nav-secondary-link">Anime Characters</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Ash_Ketchum" class="bg-global-nav-secondary-link">Ash Ketchum</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Liko" class="bg-global-nav-secondary-link">Liko</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Haru" class="bg-global-nav-secondary-link">Haru</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_Journeys:_The_Series_episodes" class="bg-global-nav-secondary-link">Journeys Episodes</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_Horizons:_The_Series_episodes" class="bg-global-nav-secondary-link">Horizons Episodes</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie#List_of_movies" class="bg-global-nav-secondary-link">Movies</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Category:Manga" class="bg-global-nav-secondary-link">Manga</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="bg-global-nav-primary-item">
+<a href="https://forums.bulbagarden.net/" class="bg-global-nav-primary-link @Selected(" forums")">Forums</a>
+</li>
+<li class="bg-global-nav-primary-item">
+<a href="https://discord.gg/bulbagarden" class="bg-global-nav-primary-link">Discord</a>
+</li>
+<li class="bg-global-nav-primary-item bg-global-nav-primary-haschildren">
+<a href="#bulbapedia" class="bg-global-nav-primary-link bg-global-nav-primary-toggle">More</a>
+<ul class="bg-global-nav-primary-children">
+<li class="bg-global-nav-secondary">
+<ul>
+<li class="bg-global-nav-secondary-item header">Social</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://www.youtube.com/user/Bulbagarden" target="_blank" rel="noopener" class="bg-global-nav-secondary-link">Youtube</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://twitter.com/Bulbagarden" target="_blank" rel="noopener" class="bg-global-nav-secondary-link">Twitter</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://www.facebook.com/Bulbagarden/" target="_blank" rel="noopener" class="bg-global-nav-secondary-link">Facebook</a>
+</li>
+</ul>
+</li>
+<li class="bg-global-nav-secondary">
+<ul>
+<li class="bg-global-nav-secondary-item header">Apps</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://play.google.com/store/apps/details?id=org.bulbagarden.alpha&hl=en&gl=US" target="_blank" rel="noopener" class="bg-global-nav-secondary-link">Android</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://apps.apple.com/us/app/bulbapedia-wiki-for-pok%C3%A9mon/id1242159382" target="_blank" rel="noopener" class="bg-global-nav-secondary-link">iOS</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="bg-global-nav-primary utilities">
+<li class="bg-global-nav-primary-item bg-global-nav-primary-haschildren">
+<a href="#bulbapedia" class="bg-global-nav-primary-link bg-global-nav-primary-toggle">Editors</a>
+<ul class="bg-global-nav-primary-children">
+<li class="bg-global-nav-secondary">
+<ul>
+<li class="bg-global-nav-secondary-item header">Bulbapedia</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Bulbapedia:Editor%27s_Hub" class="bg-global-nav-secondary-link">Editor's hub</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://www.mediawiki.org/wiki/Help:Contents" class="bg-global-nav-secondary-link">Help</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Bulbapedia:FAQ" class="bg-global-nav-secondary-link">FAQ</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/" class="bg-global-nav-secondary-link">Bulbawiki forum</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Special:RecentChanges" class="bg-global-nav-secondary-link">Recent changes</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Special:Random" class="bg-global-nav-secondary-link">Random Page</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Special:SpecialPages" class="bg-global-nav-secondary-link">Special pages</a>
+</li>
+</ul>
+</li>
+<li class="bg-global-nav-secondary">
+<ul>
+<li class="bg-global-nav-secondary-item header">Archives</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://archives.bulbagarden.net/wiki/Main_Page" class="bg-global-nav-secondary-link">Main Page</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://archives.bulbagarden.net/wiki/Archives:FAQ" class="bg-global-nav-secondary-link">FAQ</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://archives.bulbagarden.net/wiki/Archives:To-do_list" class="bg-global-nav-secondary-link">To-do list</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://archives.bulbagarden.net/wiki/Special:Upload" class="bg-global-nav-secondary-link">Upload file</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://archives.bulbagarden.net/wiki/Special:RecentChanges" class="bg-global-nav-secondary-link">Recent Changes</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://archives.bulbagarden.net/wiki/Special:Log/upload" class="bg-global-nav-secondary-link">Recent Uploads</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://archives.bulbagarden.net/wiki/Special:Random/File" class="bg-global-nav-secondary-link">Random File</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="bg-global-nav-primary-item bg-global-nav-primary-haschildren">
+<a href="#account" class="bg-global-nav-primary-link bg-global-nav-primary-toggle">Account</a>
+<ul class="bg-global-nav-primary-children">
+<li class="bg-global-nav-secondary row">
+<ul>
+<li class="bg-global-nav-secondary-item bulbapedia">
+<a href="https://bulbapedia.bulbagarden.net/w/index.php?title=Special:UserLogin&returnto=Main+Page" class="bg-global-nav-secondary-link">Bulbapedia login</a>
+</li>
+<li class="bg-global-nav-secondary-item forums">
+<a href="https://forums.bulbagarden.net/index.php?login/" class="bg-global-nav-secondary-link">Forum login</a>
+</li>
+</ul>
+</li>
+<li class="bg-global-nav-secondary">
+<ul>
+<li class="bg-global-nav-secondary-item header">New Accounts</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://bulbapedia.bulbagarden.net/wiki/Special:CreateAccount" class="bg-global-nav-secondary-link">Create Bulbapedia Account</a>
+</li>
+<li class="bg-global-nav-secondary-item">
+<a href="https://forums.bulbagarden.net/index.php?register/" class="bg-global-nav-secondary-link">Create Forum Account</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+<div id="bgMenuToggle" class="bg-global-nav-primary-link menu">Menu</div>
+<div class="bg-global-nav-search-wrapper">
+<form action="/w/index.php" id="searchform">
+<input type="hidden" name="title" value="Special:Search">
+<input type="search" name="search" placeholder="Search Bulbapedia" title="Search Bulbapedia [alt-shift-f]" accesskey="f" id="searchInput" class="bg-global-nav-search-input" autocomplete="off">
+<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton" style="display: none;">
+<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" style="display: none;">
+</form>
+</div>
+</div>
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8" />
+<title>File:Erika OD.png - Bulbagarden Archives</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"60f23ce7f4c3f8613890afe4","wgCSPNonce":false,"wgCanonicalNamespace":"File","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":6,"wgPageName":"File:Erika_OD.png","wgTitle":"Erika OD.png","wgCurRevisionId":318011,"wgRevisionId":318011,"wgArticleId":117706,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Overworld Trainer sprites","Overworld sprites","Game sprites","Erika"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"File:Erika_OD.png","wgRelevantArticleId":117706,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],
+"wgRestrictionMove":[],"wgRestrictionUpload":[],"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgEditSubmitButtonLabelPublish":false};RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.interface.helpers.styles":"ready","filepage":"ready","mediawiki.action.view.filepage":"ready","skins.monobook.styles":"ready","ext.BulbapediaAds.newdesign":"ready","ext.BulbapediaAds.customstyles":"ready","ext.BulbapediaAds.adrow-styles":"ready","ext.BulbapediaAds.globalnavbar":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready"};RLPAGEMODULES=["mediawiki.action.view.metadata","site","mediawiki.page.ready","skins.monobook.scripts","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.moderation.notify","ext.moderation.ve","ext.moderation.ajaxhook",
+"ext.moderation.notify.desktop"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.BulbapediaAds.adrow-styles%2Ccustomstyles%2Cglobalnavbar%2Cnewdesign%7Cext.visualEditor.desktopArticleTarget.noscript%7Cfilepage%7Cmediawiki.action.view.filepage%7Cmediawiki.interface.helpers.styles%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook" />
+<script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=monobook"></script>
+<meta name="ResourceLoaderDynamicStyles" content />
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook" />
+<meta name="generator" content="MediaWiki 1.39.6" />
+<meta name="format-detection" content="telephone=no" />
+<meta property="og:image" content="https://archives.bulbagarden.net/media/upload/a/ab/Erika_OD.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="1200" />
+<meta property="og:image" content="https://archives.bulbagarden.net/media/upload/a/ab/Erika_OD.png" />
+<meta property="og:image:width" content="800" />
+<meta property="og:image:height" content="800" />
+<meta property="og:image:width" content="640" />
+<meta property="og:image:height" content="640" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0" />
+<link rel="alternate" media="only screen and (max-width: 720px)" href="https://m.archives.bulbagarden.net/wiki/File:Erika_OD.png" />
+<link rel="icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Bulbagarden Archives (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="https://archives.bulbagarden.net/w/api.php?action=rsd" />
+<link rel="canonical" href="https://archives.bulbagarden.net/wiki/File:Erika_OD.png" />
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XCGG53D4E3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XCGG53D4E3');
+  gtag('config', 'UA-326511-18');
+</script>
+
+
+
+
+
+
+<script>
+(function(w, d) {
+w.adthrive = w.adthrive || {};
+w.adthrive.cmd = w.adthrive.cmd || [];
+w.adthrive.plugin = 'adthrive-ads-manual';
+w.adthrive.host = 'ads.adthrive.com';
+var s = d.createElement('script');
+s.async = true;
+s.referrerpolicy='no-referrer-when-downgrade';
+s.src = 'https://' + w.adthrive.host + '/sites/630428a76245162875c78210/ads.min.js?referrer=' + w.encodeURIComponent(w.location.href) + '&cb=' + (Math.floor(Math.random() * 100) + 1);
+var n = d.getElementsByTagName('script')[0];
+n.parentNode.insertBefore(s, n);
+})(window, document);
+</script>
+
+
+
+<script type="text/javascript" src="//ahost.bulbagarden.net/Content/bulbapediascript.js"></script>
+<meta name="robots" content="max-image-preview:large">
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&amp;display=swap" rel="stylesheet">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-6 ns-subject page-File_Erika_OD_png rootpage-File_Erika_OD_png skin-monobook action-view skin--responsive"><div id="globalWrapper">
+<div id="column-content">
+<div id="content" class="mw-body" role="main">
+<a id="top"></a>
+<div id="siteNotice"><div id="localNotice"><div class="sitenotice" lang="en" dir="ltr"><div class="noticebar roundy nomobile">Got a spare minute? The Archives need some love. See the <a href="/wiki/Archives:To-do_list" title="Archives:To-do list">to-do list</a> to find a way to help. <br/>If you upload a new image make sure you name and categorize it properly. If in doubt, ask an <a href="/wiki/Archives:Staff" title="Archives:Staff">admin</a> or see our <a href="/wiki/Archives:FAQ" title="Archives:FAQ">FAQ</a> page.</div></div></div></div>
+<div class="mw-indicators">
+</div>
+<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-namespace">File</span><span class="mw-page-title-separator">:</span><span class="mw-page-title-main">Erika OD.png</span></h1>
+<div id="bodyContent" class="monobook-body">
+<div id="siteSub">From Bulbagarden Archives</div>
+<div id="contentSub"></div>
+<div id="jump-to-nav"></div><a href="#column-one" class="mw-jump-link">Jump to navigation</a><a href="#searchInput" class="mw-jump-link">Jump to search</a>
+
+<div id="mw-content-text" class="mw-body-content"><ul id="filetoc"><li><a href="#file">File</a></li>
+<li><a href="#filehistory">File history</a></li>
+<li><a href="#filelinks">File usage</a></li>
+<li><a href="#globalusage">Global file usage</a></li>
+<li><a href="#metadata">Metadata</a></li></ul><div class="fullImageLink" id="file"><a href="https://archives.bulbagarden.net/media/upload/a/ab/Erika_OD.png"><img alt="File:Erika OD.png" src="https://archives.bulbagarden.net/media/upload/a/ab/Erika_OD.png?20120627032922" decoding="async" loading="lazy" width="32" height="32" /></a><div class="mw-filepage-resolutioninfo">No higher resolution available.</div></div>
+<div class="fullMedia"><p><a href="https://archives.bulbagarden.net/media/upload/a/ab/Erika_OD.png" class="internal" title="Erika OD.png">Erika_OD.png</a> &#8206;<span class="fileInfo">(32 × 32 pixels, file size: 791 bytes, MIME type: <span class="mime-type">image/png</span>)</span>
+</p></div><div id="mw-imagepage-content" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><h2><span class="mw-headline" id="Summary">Summary</span></h2>
+<table style="border: 1px solid #C0C0C0; background-color:#FFFFCC; border-radius: 30px; -moz-border-radius: 30px; -webkit-border-radius: 30px; -khtml-border-radius: 30px; -icab-border-radius: 30px; -o-border-radius: 30px;" align="center" width="100%">
+<tbody><tr>
+<td width="20px" style="border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px; background: #CCCCCC" align="center"><a href="/wiki/File:Nate_OR_Run.png" class="image"><img alt="Nate OR Run.png" src="https://archives.bulbagarden.net/media/upload/c/ce/Nate_OR_Run.png" decoding="async" loading="lazy" width="32" height="32" /></a>
+</td>
+<td>This is an overworld sprite of <a href="https://bulbapedia.bulbagarden.net/wiki/Erika" class="extiw" title="bp:Erika">Erika</a>, depicted in <a href="https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Black_and_White_Versions_2" class="extiw" title="bp:Pokémon Black and White Versions 2">Black 2 and White 2</a>.
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Licensing:">Licensing:</span></h2>
+<table class="copytag copytag-yellow" style="border: 1px solid #634221; background: #F08030; border-radius: 60px; -moz-border-radius: 60px; -webkit-border-radius: 60px; -khtml-border-radius: 60px; -icab-border-radius: 60px; -o-border-radius: 60px;">
+<tbody><tr>
+<td class="copytag-text">This image is a sprite from a Pokémon game, or substantially derived from one. The contributor claims this to be <a href="https://en.wikipedia.org/wiki/Fair_use" class="extiw" title="wikipedia:Fair use">fair use</a>.
+</td>
+<td class="copytag-sym" style="background: #F9D2B6; border-radius: 60px; -moz-border-radius: 60px; -webkit-border-radius: 60px; -khtml-border-radius: 60px; -icab-border-radius: 60px; -o-border-radius: 60px;"><a href="/wiki/File:Tag-copyright-pokemon.png" class="image"><img alt="Tag-copyright-pokemon.png" src="https://archives.bulbagarden.net/media/upload/c/c1/Tag-copyright-pokemon.png" decoding="async" loading="lazy" width="60" height="60" /></a>
+</td></tr></tbody></table>
+
+
+
+</div></div><h2 id="filehistory">File history</h2>
+<div id="mw-imagepage-section-filehistory">
+<p>Click on a date/time to view the file as it appeared at that time.
+</p>
+<table class="wikitable filehistory">
+<tr><th></th><th>Date/Time</th><th>Thumbnail</th><th>Dimensions</th><th>User</th><th>Comment</th></tr>
+<tr><td>current</td><td class="filehistory-selected" style="white-space: nowrap;"><a href="https://archives.bulbagarden.net/media/upload/a/ab/Erika_OD.png">03:29, 27 June 2012</a></td><td><a href="https://archives.bulbagarden.net/media/upload/a/ab/Erika_OD.png"><img alt="Thumbnail for version as of 03:29, 27 June 2012" src="https://archives.bulbagarden.net/media/upload/a/ab/Erika_OD.png?20120627032922" decoding="async" loading="lazy" width="120" height="120" /></a></td><td>32 × 32 <span style="white-space: nowrap;">(791 bytes)</span></td><td><a href="/wiki/User:Jo_The_Marten" class="mw-redirect mw-userlink" title="User:Jo The Marten"><bdi>Jo The Marten</bdi></a><span style="white-space: nowrap;"> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Jo_The_Marten" class="mw-usertoollinks-talk" title="User talk:Jo The Marten">talk</a> | <a href="/wiki/Special:Contributions/Jo_The_Marten" class="mw-usertoollinks-contribs" title="Special:Contributions/Jo The Marten">contribs</a>)</span></span></td><td dir="ltr">== Summary == {{overworld|Erika|Erika|{{bp|Pokémon Black and White Versions 2|Black 2 and White 2}}|Overworld Trainer sprites}} == Licensing == {{i-Fairuse-sprite-game}} </td></tr>
+</table>
+</div>
+<div class="mw-imagepage-upload-links"><p id="mw-imagepage-upload-disallowed">You cannot overwrite this file.</p></div><h2 id="filelinks">File usage</h2>
+<div id="mw-imagepage-nolinkstoimage">
+<p>There are no pages that use this file.
+</p>
+</div><h2 id="globalusage">Global file usage</h2>
+<div id="mw-imagepage-section-globalusage"><p>The following other wikis use this file:
+</p><ul>
+<li class="mw-gu-onwiki-bulbapedia_bulbagarden_net">Usage on bulbapedia.bulbagarden.net
+<ul> <li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/Misty">Misty</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/Giovanni">Giovanni</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/Erika">Erika</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/Blue_(game)">Blue (game)</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/Lt._Surge">Lt. Surge</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/Sabrina">Sabrina</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/Blaine">Blaine</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/Janine">Janine</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/Template:Gym_Leaders_of_Kanto">Template:Gym Leaders of Kanto</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/Pewter_Gym">Pewter Gym</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/Cerulean_Gym">Cerulean Gym</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/Vermilion_Gym">Vermilion Gym</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/Celadon_Gym">Celadon Gym</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/Saffron_Gym">Saffron Gym</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/Fuchsia_Gym">Fuchsia Gym</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/Cinnabar_Gym">Cinnabar Gym</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/Viridian_Gym">Viridian Gym</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/Koga">Koga</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/Brock">Brock</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/User:Gaspershut">User:Gaspershut</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/Giovanni_(Adventures)">Giovanni (Adventures)</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_World_Tournament">Pokémon World Tournament</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/User:Davidader/Pok%C3%A9Tournament">User:Davidader/PokéTournament</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/World_Leaders_Tournament">World Leaders Tournament</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/Type_Expert_Tournament">Type Expert Tournament</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/Rental_Master_Tournament">Rental Master Tournament</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/User:Dannyboy601/Sandbox">User:Dannyboy601/Sandbox</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/User:Hikaru_Wazana/Drafts">User:Hikaru Wazana/Drafts</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/User:ThunderBrine/Sandbox">User:ThunderBrine/Sandbox</a></li>
+<li><a class="external" rel="nofollow" href="//bulbapedia.bulbagarden.net/wiki/User:ThunderBrine/Pok%C3%A9mon_Trainers_of_the_Indigo_Plateau_Pok%C3%A9mon_League">User:ThunderBrine/Pokémon Trainers of the Indigo Plateau Pokémon League</a></li>
+</ul></li>
+<li class="mw-gu-onwiki-bulbanews_bulbagarden_net">Usage on bulbanews.bulbagarden.net
+<ul> <li><a class="external" rel="nofollow" href="//bulbanews.bulbagarden.net/wiki/User:AiedailEclipsed/Test">User:AiedailEclipsed/Test</a></li>
+</ul></li>
+</ul>
+</div><h2 id="metadata">Metadata</h2>
+<div class="mw-imagepage-section-metadata"><p>This file contains additional information, probably added from the digital camera or scanner used to create or digitize it.
+</p><p>
+If the file has been modified from its original state, some details may not fully reflect the modified file.</p><table id="mw_metadata" class="mw_metadata collapsed">
+<tbody><tr class="exif-xresolution mw-metadata-collapsible"><th>Horizontal resolution</th><td>28.35 dpc</td></tr><tr class="exif-yresolution mw-metadata-collapsible"><th>Vertical resolution</th><td>28.35 dpc</td></tr></tbody></table>
+</div>
+
+
+<script>
+// Initialize elements
+appendElementIf({id: "adthrive-left-s", wAbove: 1520, wBelow: 1699, hAbove: 700});
+appendElementIf({id: "adthrive-left-m", wAbove: 1700, wBelow: 1890, hAbove: 700});
+appendElementIf({id: "adthrive-left-l", wAbove: 1891, hAbove: 700});
+
+appendElementIf({id: "adthrive-right-s", wAbove: 945, wBelow: 1099, hAbove: 964});
+appendElementIf({id: "adthrive-right-m", wAbove: 1100, wBelow: 1399, hAbove: 964});
+appendElementIf({id: "adthrive-right-l", wAbove: 1400, hAbove: 964});
+appendElementIf({id: "adthrive-right-rect", wAbove: 1099, hBelow: 964});
+
+
+// Appends element if condition is met
+function appendElementIf({id, wAbove, wBelow, hAbove, hBelow}) {
+
+	// find browser height
+	var w = window.innerWidth;
+	var h = window.innerHeight;
+
+	// If true after browser size check then unit is added
+	var condition = true;
+
+	// Check size conditions
+	if (wBelow && (w > wBelow)) condition = false;
+	if (wAbove && (w < wAbove)) condition = false;
+
+	if (hBelow && (h > hBelow)) condition = false;
+	if (hAbove && (h < hAbove)) condition = false;
+
+	// Append element if condition is met
+	if (condition) {
+		createAndAppendElement(id);
+	}
+}
+
+
+// creates and appends a div element to the body
+function createAndAppendElement(id)
+{
+	var atEl = document.createElement('div');
+	atEl.id = id;
+	document.body.appendChild(atEl);
+}
+</script>
+
+
+ <style>
+        /*This styles are to place the close button right above the video without this the close button will be placed below the video.*/
+        #pw-close-btn {
+            display: none !important;
+        }
+        #span_btn {
+            position: absolute;
+            top: -40px;
+            right: 0;
+            cursor: pointer;
+        }
+        @media only screen and (max-width: 767px) {
+            #span_btn {
+                top: 9px;
+                right: 11px;
+            }
+        }
+        .is-docked {
+           margin-bottom:90px !important;
+        }
+        </style>
+
+
+<script>!function(){"use strict";!function(e){if(-1===e.cookie.indexOf("__adblocker")){e.cookie="__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";var t=new XMLHttpRequest;t.open("GET","https://ads.adthrive.com/abd/abd.js",!0),t.onreadystatechange=function(){if(XMLHttpRequest.DONE===t.readyState)if(200===t.status){var a=e.createElement("script");a.innerHTML=t.responseText,e.getElementsByTagName("head")[0].appendChild(a)}else{var n=new Date;n.setTime(n.getTime()+3e5),e.cookie="__adblocker=true; expires="+n.toUTCString()+"; path=/"}},t.send()}}(document)}();</script>
+<script>!function(){"use strict";var e;e=document,function(){var t,n;function r(){var t=e.createElement("script");t.src="https://cafemedia-com.videoplayerhub.com/galleryplayer.js",e.head.appendChild(t)}function a(){var t=e.cookie.match("(^|[^;]+)\s*__adblocker\s*=\s*([^;]+)");return t&&t.pop()}function c(){clearInterval(n)}return{init:function(){var e;"true"===(t=a())?r():(e=0,n=setInterval((function(){100!==e&&"false"!==t||c(),"true"===t&&(r(),c()),t=a(),e++}),50))}}}().init()}();
+</script>
+
+
+
+<div class="printfooter" data-nosnippet>Retrieved from "<a dir="ltr" href="https://archives.bulbagarden.net/w/index.php?title=File:Erika_OD.png&amp;oldid=318011">https://archives.bulbagarden.net/w/index.php?title=File:Erika_OD.png&amp;oldid=318011</a>"</div></div>
+<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Overworld_Trainer_sprites" title="Category:Overworld Trainer sprites">Overworld Trainer sprites</a></li><li><a href="/wiki/Category:Overworld_sprites" title="Category:Overworld sprites">Overworld sprites</a></li><li><a href="/wiki/Category:Game_sprites" title="Category:Game sprites">Game sprites</a></li><li><a href="/wiki/Category:Erika" title="Category:Erika">Erika</a></li></ul></div></div>
+
+<div class="visualClear"></div>
+</div>
+</div>
+<div class="visualClear"></div>
+</div>
+<div id="column-one">
+<h2>Navigation menu</h2>
+<div role="navigation" class="portlet" id="p-cactions" aria-labelledby="p-cactions-label">
+<h3 id="p-cactions-label">Page actions</h3>
+<div class="pBody">
+<ul>
+<li id="ca-nstab-image" class="selected mw-list-item"><a href="/wiki/File:Erika_OD.png" title="View the file page [c]" accesskey="c">File</a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=File_talk:Erika_OD.png&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li><li id="ca-view" class="selected mw-list-item"><a href="/wiki/File:Erika_OD.png">Read</a></li><li id="ca-viewsource" class="mw-list-item"><a href="/w/index.php?title=File:Erika_OD.png&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=File:Erika_OD.png&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+</ul>
+</div>
+</div>
+<div role="navigation" class="portlet mw-portlet mw-portlet-cactions-mobile" id="p-cactions-mobile" aria-labelledby="p-cactions-mobile-label">
+<h3 id="p-cactions-mobile-label">Page actions</h3>
+<div class="pBody">
+<ul><li id="image-mobile" class="selected mw-list-item"><a href="/wiki/File:Erika_OD.png" title="File">File</a></li><li id="image_talk-mobile" class="new mw-list-item"><a href="/w/index.php?title=File_talk:Erika_OD.png&amp;action=edit&amp;redlink=1" title=" (page does not exist)">Discussion</a></li><li id="ca-more" class="mw-list-item"><a href="#p-cactions">More</a></li><li id="ca-tools" class="mw-list-item"><a href="#p-tb" title="Tools">Tools</a></li></ul>
+</div>
+</div>
+<div role="navigation" class="portlet" id="p-personal" aria-labelledby="p-personal-label">
+<h3 id="p-personal-label">Personal tools</h3>
+<div class="pBody">
+<ul>
+<li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=File%3AErika+OD.png" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=File%3AErika+OD.png" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+</ul>
+</div>
+</div>
+<div class="portlet" id="p-logo" role="banner">
+<a href="/wiki/Main_Page" class="mw-wiki-logo"></a>
+</div>
+<div id="sidebar">
+<div role="navigation" class="portlet mw-portlet mw-portlet-navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="pBody">
+<ul><li id="n-mainpage" class="mw-list-item"><a href="/wiki/Main_Page" title="Archives Main Page [z]" accesskey="z">Main Page</a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Archives:FAQ" title="General editing help">Frequently asked questions</a></li><li id="n-To-do-list" class="mw-list-item"><a href="/wiki/Archives:To-do_list">To-do list</a></li><li id="n-portal" class="mw-list-item"><a href="http://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/" rel="nofollow" title="Discussion forum for the Bulbawiki network">Bulbawiki forum</a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="View recent uploads to Bulbagarden Archives. [r]" accesskey="r">Recent changes</a></li><li id="n-recentuploads" class="mw-list-item"><a href="/wiki/Special:Log/upload">Recent uploads</a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random/File" title="Load a random file [x]" accesskey="x">Random file</a></li></ul>
+</div>
+</div>
+<div role="search" class="portlet" id="p-search">
+<h3 id="p-search-label"><label for="searchInput">Search</label></h3>
+<div class="pBody" id="searchBody">
+<form action="/w/index.php" id="searchform"><input type="hidden" value="Special:Search" name="title"><input type="search" name="search" placeholder="Search Bulbagarden Archives" aria-label="Search Bulbagarden Archives" autocapitalize="sentences" title="Search Bulbagarden Archives [f]" accesskey="f" id="searchInput" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" class="searchButton" id="searchButton" /> <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" class="searchButton mw-fallbackSearchButton" id="mw-searchButton" /></form>
+</div>
+</div>
+<div role="navigation" class="portlet mw-portlet mw-portlet-Bulbagarden" id="p-Bulbagarden" aria-labelledby="p-Bulbagarden-label">
+<h3 id="p-Bulbagarden-label">Bulbagarden</h3>
+<div class="pBody">
+<ul><li id="n-gateway" class="mw-list-item"><a href="http://www.bulbagarden.net" rel="nofollow">Bulbagarden home page</a></li><li id="n-pedia" class="mw-list-item"><a href="https://bulbapedia.bulbagarden.net/wiki/Main_Page" title="Travel back to Bulbapedia">Bulbapedia</a></li><li id="n-Bulbagarden-Forums" class="mw-list-item"><a href="https://forums.bulbagarden.net/index.php" rel="nofollow">Bulbagarden Forums</a></li><li id="n-Bulbagarden-Discord-server" class="mw-list-item"><a href="https://discord.gg/bulbagarden" rel="nofollow">Bulbagarden Discord server</a></li><li id="n-Facebook" class="mw-list-item"><a href="https://www.facebook.com/Bulbagarden" rel="nofollow">Facebook</a></li><li id="n-Twitch" class="mw-list-item"><a href="https://www.twitch.tv/bulbagarden" rel="nofollow">Twitch</a></li><li id="n-YouTube" class="mw-list-item"><a href="https://www.youtube.com/user/Bulbagarden" rel="nofollow">YouTube</a></li><li id="n-Twitter" class="mw-list-item"><a href="https://twitter.com/Bulbagarden" rel="nofollow">Twitter</a></li><li id="n-Tumblr" class="mw-list-item"><a href="https://bulbagarden.tumblr.com/" rel="nofollow">Tumblr</a></li></ul>
+</div>
+</div>
+<div role="navigation" class="portlet mw-portlet mw-portlet-tb" id="p-tb" aria-labelledby="p-tb-label">
+<h3 id="p-tb-label">Tools</h3>
+<div class="pBody">
+<ul><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/File:Erika_OD.png" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/File:Erika_OD.png" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=File:Erika_OD.png&amp;oldid=318011" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=File:Erika_OD.png&amp;action=info" title="More information about this page">Page information</a></li></ul>
+</div>
+</div>
+</div>
+<a href="#sidebar" title="Jump to navigation" class="menu-toggle" id="sidebar-toggle"></a>
+<a href="#p-personal" title="user tools" class="menu-toggle" id="p-personal-toggle"></a>
+<a href="#globalWrapper" title="back to top" class="menu-toggle" id="globalWrapper-toggle"></a>
+</div>
+
+<div class="visualClear"></div>
+<div id="footer" class="mw-footer" role="contentinfo">
+<div id="f-copyrightico" class="footer-icons">
+<a href="https://creativecommons.org/licenses/by-nc-sa/2.5/"><img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="https://creativecommons.org/licenses/by-nc-sa/2.5/" width="88" height="31" loading="lazy" /></a>
+</div>
+<div id="f-poweredbyico" class="footer-icons">
+<a href="https://www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy" /></a>
+</div>
+<ul id="f-list">
+<li id="lastmod"> This page was last modified on 9 August 2012, at 03:43.<br/></li>
+<li id="privacy"><a href="/wiki/Archives:Privacy_policy">Privacy policy</a></li><li id="about"><a href="/wiki/Archives:About">About Bulbagarden Archives</a></li><li id="disclaimer"><a href="/wiki/Archives:General_disclaimer">Disclaimers</a></li><li id="mobileview"><a href="https://m.archives.bulbagarden.net/w/index.php?title=File:Erika_OD.png&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+</div>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.001","walltime":"0.003","ppvisitednodes":{"value":3,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":1,"limit":100},"expensivefunctioncount":{"value":0,"limit":250},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20240408134105","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":279});});</script>
+</body>
+</html>

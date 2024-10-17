@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0789c39fb5c54a70bb7f4749902f3d8, type: 3}
+  m_Name: Black Kyurem
+  m_EditorClassIdentifier: 
+  name: Black Kyurem
+  description: 
+  frontEnd: {fileID: 9100000, guid: 23ca4aedc1a9c488f946f876b84e225d, type: 2}
+  backEnd: {fileID: 9100000, guid: aa41b9bbcb6ee43a18c8f88d5fcfe2c5, type: 2}
+  type1: 5
+  type2: 8
+  maxhp: 125
+  attackdamage: 120
+  defense: 90
+  spattack: 100
+  catchRate: 20
+  expYield: 500
+  growthRate: 0
+  evolutions: []
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: f71453bd116c641439a2c7bf86867c83, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 8ac15ee0c75314b10bb4240bea003f85, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 1c7947912a8b94e7883f8ac905d6a834, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 39b0fdb55b255422bba916de40cc356a, type: 2}
+    level: 0

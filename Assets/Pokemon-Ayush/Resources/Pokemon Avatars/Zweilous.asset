@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0789c39fb5c54a70bb7f4749902f3d8, type: 3}
+  m_Name: Zweilous
+  m_EditorClassIdentifier: 
+  name: Zweilous
+  description: Deino Evolution
+  frontEnd: {fileID: 9100000, guid: 202b0ca5aad6e4a11b472d6869951074, type: 2}
+  backEnd: {fileID: 9100000, guid: 998f93f342a844e11b6e17e8c16ea40f, type: 2}
+  type1: 2
+  type2: 0
+  maxhp: 68
+  attackdamage: 90
+  defense: 65
+  spattack: 50
+  catchRate: 240
+  expYield: 180
+  growthRate: 0
+  evolutions:
+  - evolvesInto: {fileID: 11400000, guid: 894f8cccee06c43c6acbdf92f95701bf, type: 2}
+    requiredLevel: 12
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: da917e8f578ce48f2bb30fc28163351f, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 1f1db82e24cc2447694f68b218f00970, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 03533e6aafabf45799ef7808a6e4352d, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 2f986e58689764476885cb4470d61336, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: f71453bd116c641439a2c7bf86867c83, type: 2}
+    level: 9

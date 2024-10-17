@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0789c39fb5c54a70bb7f4749902f3d8, type: 3}
+  m_Name: Reshiram
+  m_EditorClassIdentifier: 
+  name: Reshiram
+  description: Legendary Pokemon
+  frontEnd: {fileID: 9100000, guid: fc5ab38c82ccf41058935704e8d319f3, type: 2}
+  backEnd: {fileID: 9100000, guid: 8b5694bb011664aab8783939f7b06956, type: 2}
+  type1: 2
+  type2: 0
+  maxhp: 100
+  attackdamage: 120
+  defense: 100
+  spattack: 150
+  catchRate: 30
+  expYield: 500
+  growthRate: 1
+  evolutions: []
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 7bc00e75154f4445ea79da5dbe8bcf05, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: f8f35f9d950884a40a918ee98600a364, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 1f1db82e24cc2447694f68b218f00970, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 39b0fdb55b255422bba916de40cc356a, type: 2}
+    level: 0

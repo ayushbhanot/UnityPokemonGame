@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0789c39fb5c54a70bb7f4749902f3d8, type: 3}
+  m_Name: Charmander
+  m_EditorClassIdentifier: 
+  name: Charmander
+  description: Starter Pokemon
+  frontEnd: {fileID: 9100000, guid: 7758cf19f60c4480e83f25d91e54f2e7, type: 2}
+  backEnd: {fileID: 9100000, guid: 93dd6fc12d38d4a0296df2d17925fb56, type: 2}
+  type1: 2
+  type2: 0
+  maxhp: 39
+  attackdamage: 52
+  defense: 43
+  spattack: 60
+  catchRate: 240
+  expYield: 120
+  growthRate: 0
+  evolutions:
+  - evolvesInto: {fileID: 11400000, guid: 1eaa6aadee9134b03bffef47f9c6b076, type: 2}
+    requiredLevel: 7
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: da917e8f578ce48f2bb30fc28163351f, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 7bc00e75154f4445ea79da5dbe8bcf05, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 2f986e58689764476885cb4470d61336, type: 2}
+    level: 3

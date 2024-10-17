@@ -1,0 +1,751 @@
+Unity Editor version:    2023.2.7f1 (0a9195b3d453)
+Branch:                  2023.2/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 14.3 (Build 23D56)
+Darwin version:          23.3.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        18432 MB
+Using pre-set license
+Pro License: YES
+2024-04-08 21:52:53.219 Unity[20981:4908957] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2023.2.7f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/ayushbhanot/Documents/WorkingModelPokemon/groupproject-team12
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49434
+-job-worker-count
+5
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: /Users/ayushbhanot/Documents/WorkingModelPokemon/groupproject-team12
+/Users/ayushbhanot/Documents/WorkingModelPokemon/groupproject-team12
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [7996611648] Host "[IP] 172.30.128.77 [Port] 0 [Flags] 2 [Guid] 4032387386 [EditorId] 4032387386 [Version] 1048832 [Id] OSXEditor(0,dyn172-30-128-77.wireless.uwo.pri) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [7996611648] Host "[IP] 172.30.128.77 [Port] 0 [Flags] 2 [Guid] 4032387386 [EditorId] 4032387386 [Version] 1048832 [Id] OSXEditor(0,dyn172-30-128-77.wireless.uwo.pri) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+[Physics::Module] Initialized MultithreadedJobDispatcher with 5 workers.
+Library Redirect Path: Library/
+Refreshing native plugins compatible for Editor in 2.91 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.2.7f1 (0a9195b3d453)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2023.2.7f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/ayushbhanot/Documents/WorkingModelPokemon/groupproject-team12/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+ preferred device: Apple M3 Pro (high power)
+Metal devices available: 1
+0: Apple M3 Pro (high power)
+Using device Apple M3 Pro (high power)
+Initializing Metal device caps: Apple M3 Pro
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2023.2.7f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2023.2.7f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/2023.2.7f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56981
+Begin MonoManager ReloadAssembly
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2023.2.7f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2023.2.7f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Registered in 0.003094 seconds.
+- Loaded All Assemblies, in  0.434 seconds
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+[usbmuxd] Send listen message
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Mono: successfully reloaded assembly
+icall.c:1842:
+icall.c:1842:
+- Finished resetting the current domain, in  0.232 seconds
+Domain Reload Profiling: 666ms
+	BeginReloadAssembly (261ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (0ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (107ms)
+		LoadAssemblies (265ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (101ms)
+			TypeCache.Refresh (100ms)
+				TypeCache.ScanAssembly (90ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (233ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (202ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (74ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (97ms)
+			ProcessInitializeOnLoadMethodAttributes (26ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image /Users/ayushbhanot/Documents/WorkingModelPokemon/groupproject-team12/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/ayushbhanot/Documents/WorkingModelPokemon/groupproject-team12/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.728 seconds
+Refreshing native plugins compatible for Editor in 0.84 ms, found 3 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.517 seconds
+Domain Reload Profiling: 1245ms
+	BeginReloadAssembly (233ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (21ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (20ms)
+	LoadAllAssembliesAndSetupDomain (445ms)
+		LoadAssemblies (393ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (99ms)
+			TypeCache.Refresh (84ms)
+				TypeCache.ScanAssembly (73ms)
+			BuildScriptInfoCaches (11ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (517ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (421ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (19ms)
+			ProcessInitializeOnLoadAttributes (370ms)
+			ProcessInitializeOnLoadMethodAttributes (15ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (1ms)
+database is locked
+database is locked
+Launching external process: /Applications/Unity/Hub/Editor/2023.2.7f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 31 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4193 unused Assets / (1.2 MB). Loaded Objects now: 4771.
+Memory consumption went from 139.7 MB to 138.5 MB.
+Total: 4.468667 ms (FindLiveObjects: 0.510084 ms CreateObjectMapping: 0.093666 ms MarkObjects: 3.303125 ms  DeleteObjects: 0.561417 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 342530.950053 seconds.
+  path: Assets/Traps/beartrap_pixel.png
+  artifactKey: Guid(22233ff68e5182c4796c3a3ddf2106fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Traps/beartrap_pixel.png using Guid(22233ff68e5182c4796c3a3ddf2106fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fc5b73c7624d82e5a3f17835ad85d22c') in 0.044094791 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.062308 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1149b64aa6a5ef136ba5b8a9455d3507') in 0.000276292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x29268f000 may have been prematurely finalized
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image /Users/ayushbhanot/Documents/WorkingModelPokemon/groupproject-team12/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/ayushbhanot/Documents/WorkingModelPokemon/groupproject-team12/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.414 seconds
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.397 seconds
+Domain Reload Profiling: 811ms
+	BeginReloadAssembly (106ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (34ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (12ms)
+	LoadAllAssembliesAndSetupDomain (266ms)
+		LoadAssemblies (241ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (69ms)
+			TypeCache.Refresh (4ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (61ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (397ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (300ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (12ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (19ms)
+			ProcessInitializeOnLoadAttributes (253ms)
+			ProcessInitializeOnLoadMethodAttributes (13ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4191 unused Assets / (1.1 MB). Loaded Objects now: 4780.
+Memory consumption went from 145.1 MB to 144.0 MB.
+Total: 3.580833 ms (FindLiveObjects: 0.179416 ms CreateObjectMapping: 0.080792 ms MarkObjects: 2.859875 ms  DeleteObjects: 0.460292 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 80.556116 seconds.
+  path: Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Black Kyurem.asset
+  artifactKey: Guid(a6b3a9d09e5164769b8d651e6f9bcd16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Black Kyurem.asset using Guid(a6b3a9d09e5164769b8d651e6f9bcd16) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0073d3977546add0e101f270409879cd') in 0.093131333 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Rayqauza.asset
+  artifactKey: Guid(13b19b6a7a9a74476a2ec4299d3b35b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Rayqauza.asset using Guid(13b19b6a7a9a74476a2ec4299d3b35b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4df312cd9ed8007f5e23f86b23c93563') in 0.006076625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Lugia.asset
+  artifactKey: Guid(3e57677850da14ce3b8094609d14a162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Lugia.asset using Guid(3e57677850da14ce3b8094609d14a162) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f2a652d317818b35b6790cbcb63ef4cd') in 0.005134667 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Pokemon-Ayush/Resources/Pokemon Avatars/MewTwo.asset
+  artifactKey: Guid(b6d44e6c3ccdc4f99a32faae8a72880a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pokemon-Ayush/Resources/Pokemon Avatars/MewTwo.asset using Guid(b6d44e6c3ccdc4f99a32faae8a72880a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e3b97c72819824391f64cf9a4c74d172') in 0.00657925 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Infernape.asset
+  artifactKey: Guid(95246081f9c0c4bb3bef4729942a2468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Infernape.asset using Guid(95246081f9c0c4bb3bef4729942a2468) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a4144715f91fdada645f949618fb31c4') in 0.006258083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Embroar.asset
+  artifactKey: Guid(aa0cf769a73ff43da89b52993dc8ac4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Embroar.asset using Guid(aa0cf769a73ff43da89b52993dc8ac4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cc720a35808a59dedb7306579c88c7cc') in 0.005298166 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Luxio.asset
+  artifactKey: Guid(b7b941b534a514fc4a55d325a8d24ad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Luxio.asset using Guid(b7b941b534a514fc4a55d325a8d24ad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5d15ee8071b82a9ba0838b2eb2d62190') in 0.01123775 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Samurott.asset
+  artifactKey: Guid(e9391feb7d5af41c491df6c7de2487d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Samurott.asset using Guid(e9391feb7d5af41c491df6c7de2487d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e8054f10d1ab893d39c10709eba61b9e') in 0.004489875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Charmeleon.asset
+  artifactKey: Guid(1eaa6aadee9134b03bffef47f9c6b076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Charmeleon.asset using Guid(1eaa6aadee9134b03bffef47f9c6b076) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7af5f205a0063f2556c1b8e9d58b2d7e') in 0.0028005 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Oshawatt.asset
+  artifactKey: Guid(4f2d4477fe1d54d2baebb0d311796693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Oshawatt.asset using Guid(4f2d4477fe1d54d2baebb0d311796693) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b530d005e0792fa38086b297a686c9d6') in 0.00292225 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Tepig.asset
+  artifactKey: Guid(ce9dbb19d454e406ab3c90bdb19b23a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Tepig.asset using Guid(ce9dbb19d454e406ab3c90bdb19b23a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0651f007df95fa180c08588c38554cc0') in 0.013866541 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 33
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Zekrom.asset
+  artifactKey: Guid(da62ab4e32171415eb51b72565b9210f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Zekrom.asset using Guid(da62ab4e32171415eb51b72565b9210f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '75fea4d957a2e675236718eed28fc289') in 0.0058155 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Monferno.asset
+  artifactKey: Guid(5ed75a861633a4236aa21b881a4b715e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Monferno.asset using Guid(5ed75a861633a4236aa21b881a4b715e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b8e4ae6619c5ec10213f38bc91871fcf') in 0.005234333 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Gabite.asset
+  artifactKey: Guid(7bed0c25204e143dfab627801f629a40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Gabite.asset using Guid(7bed0c25204e143dfab627801f629a40) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '23a990832cee32c607fbc8e82f02bbc5') in 0.00435175 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Pikachu.asset
+  artifactKey: Guid(0a981f912cd044dd2bfc34bb12bd0635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Pikachu.asset using Guid(0a981f912cd044dd2bfc34bb12bd0635) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e7eb41467e328597d930550a16fcc10b') in 0.004968209 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Pokemon-Ayush/Resources/Pokemon Avatars/White Kyurem.asset
+  artifactKey: Guid(02acc8d0d022d47bdb1e1e8ca84abc91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pokemon-Ayush/Resources/Pokemon Avatars/White Kyurem.asset using Guid(02acc8d0d022d47bdb1e1e8ca84abc91) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bd6f49910b9acb396f84cc2f10e346b2') in 0.007645708 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Hydreigon.asset
+  artifactKey: Guid(894f8cccee06c43c6acbdf92f95701bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Hydreigon.asset using Guid(894f8cccee06c43c6acbdf92f95701bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6173e05d28c61a56636dd3821ddec711') in 0.001525958 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Reshiram.asset
+  artifactKey: Guid(e3c704150cc5949978dbbbf9af10047b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Reshiram.asset using Guid(e3c704150cc5949978dbbbf9af10047b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f8bb7f4e6a36345ccc5784d35bad5de6') in 0.005718666 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Pignite.asset
+  artifactKey: Guid(39e725e6d5b1d4bd1903e32b0d651516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pokemon-Ayush/Resources/Pokemon Avatars/Pignite.asset using Guid(39e725e6d5b1d4bd1903e32b0d651516) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'afeb9fc2d33b3b300f858fc70f37f8a3') in 0.003257333 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Pokemon-Ayush/Resources/Pokemon Avatars/LuxeRay.asset
+  artifactKey: Guid(7fdec371009644abdb07ce200142d328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pokemon-Ayush/Resources/Pokemon Avatars/LuxeRay.asset using Guid(7fdec371009644abdb07ce200142d328) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '325069994e3602706a1ccbc6274ddd73') in 0.001848334 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x29d787000 may have been prematurely finalized
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image /Users/ayushbhanot/Documents/WorkingModelPokemon/groupproject-team12/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/ayushbhanot/Documents/WorkingModelPokemon/groupproject-team12/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.548 seconds
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.428 seconds
+Domain Reload Profiling: 976ms
+	BeginReloadAssembly (148ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (43ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (14ms)
+	LoadAllAssembliesAndSetupDomain (347ms)
+		LoadAssemblies (323ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (73ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (64ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (428ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (326ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (20ms)
+			ProcessInitializeOnLoadAttributes (276ms)
+			ProcessInitializeOnLoadMethodAttributes (14ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4191 unused Assets / (0.9 MB). Loaded Objects now: 4780.
+Memory consumption went from 144.8 MB to 143.9 MB.
+Total: 4.485000 ms (FindLiveObjects: 0.225333 ms CreateObjectMapping: 0.085542 ms MarkObjects: 3.624333 ms  DeleteObjects: 0.549458 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x179ac7000 may have been prematurely finalized
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image /Users/ayushbhanot/Documents/WorkingModelPokemon/groupproject-team12/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/ayushbhanot/Documents/WorkingModelPokemon/groupproject-team12/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.545 seconds
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.449 seconds
+Domain Reload Profiling: 995ms
+	BeginReloadAssembly (161ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (15ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (71ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (16ms)
+	LoadAllAssembliesAndSetupDomain (335ms)
+		LoadAssemblies (300ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (82ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (70ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (449ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (344ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (20ms)
+			ProcessInitializeOnLoadAttributes (293ms)
+			ProcessInitializeOnLoadMethodAttributes (15ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4191 unused Assets / (0.5 MB). Loaded Objects now: 4780.
+Memory consumption went from 144.6 MB to 144.0 MB.
+Total: 4.380083 ms (FindLiveObjects: 0.217667 ms CreateObjectMapping: 0.085958 ms MarkObjects: 3.474458 ms  DeleteObjects: 0.601208 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+[usbmuxd] Attached: 52 00008120-000654643A72201E
+[usbmuxd] Detached: 52 00008120-000654643A72201E
+[usbmuxd] Attached: 53 00008120-000654643A72201E
+[usbmuxd] Detached: 53 00008120-000654643A72201E
+[usbmuxd] Attached: 54 00008120-000654643A72201E
+[usbmuxd] Detached: 54 00008120-000654643A72201E
+[usbmuxd] Attached: 57 00008120-000654643A72201E
+[usbmuxd] Detached: 57 00008120-000654643A72201E
+[usbmuxd] Attached: 58 00008120-000654643A72201E
+[usbmuxd] Detached: 58 00008120-000654643A72201E
+[usbmuxd] Attached: 59 00008120-000654643A72201E
+[usbmuxd] Detached: 59 00008120-000654643A72201E
+[usbmuxd] Attached: 60 00008120-000654643A72201E
+[usbmuxd] Detached: 60 00008120-000654643A72201E
+[usbmuxd] Attached: 61 00008120-000654643A72201E
+[usbmuxd] Detached: 61 00008120-000654643A72201E
+[usbmuxd] Attached: 62 00008120-000654643A72201E
+[usbmuxd] Detached: 62 00008120-000654643A72201E
+[usbmuxd] Attached: 63 00008120-000654643A72201E
+[usbmuxd] Detached: 63 00008120-000654643A72201E
+[usbmuxd] Attached: 64 00008120-000654643A72201E
+[usbmuxd] Detached: 64 00008120-000654643A72201E
+[usbmuxd] Attached: 65 00008120-000654643A72201E
+[usbmuxd] Detached: 65 00008120-000654643A72201E
+[usbmuxd] Attached: 66 00008120-000654643A72201E
+[usbmuxd] Detached: 66 00008120-000654643A72201E
+[usbmuxd] Attached: 68 00008120-000654643A72201E
+[usbmuxd] Detached: 68 00008120-000654643A72201E
+[usbmuxd] Attached: 69 00008120-000654643A72201E
+[usbmuxd] Detached: 69 00008120-000654643A72201E
+[usbmuxd] Attached: 70 00008120-000654643A72201E
+[usbmuxd] Detached: 70 00008120-000654643A72201E
+[usbmuxd] Attached: 71 00008120-000654643A72201E
+[usbmuxd] Detached: 71 00008120-000654643A72201E
+[usbmuxd] Attached: 72 00008120-000654643A72201E
+[usbmuxd] Detached: 72 00008120-000654643A72201E
+[usbmuxd] Attached: 75 00008120-000654643A72201E
+[usbmuxd] Detached: 75 00008120-000654643A72201E
+[usbmuxd] Attached: 76 00008120-000654643A72201E
+[usbmuxd] Detached: 76 00008120-000654643A72201E
+[usbmuxd] Attached: 77 00008120-000654643A72201E
+[usbmuxd] Detached: 77 00008120-000654643A72201E
+[usbmuxd] Attached: 78 00008120-000654643A72201E
+[usbmuxd] Detached: 78 00008120-000654643A72201E
+[usbmuxd] Attached: 79 00008120-000654643A72201E
+[usbmuxd] Detached: 79 00008120-000654643A72201E
+[usbmuxd] Attached: 80 00008120-000654643A72201E
+[usbmuxd] Detached: 80 00008120-000654643A72201E
+[usbmuxd] Attached: 81 00008120-000654643A72201E
+[usbmuxd] Detached: 81 00008120-000654643A72201E
+[usbmuxd] Attached: 82 00008120-000654643A72201E
+[usbmuxd] Detached: 82 00008120-000654643A72201E
+[usbmuxd] Attached: 83 00008120-000654643A72201E
+[usbmuxd] Detached: 83 00008120-000654643A72201E
+[usbmuxd] Attached: 84 00008120-000654643A72201E
+[usbmuxd] Detached: 84 00008120-000654643A72201E
+[usbmuxd] Attached: 85 00008120-000654643A72201E
+[usbmuxd] Detached: 85 00008120-000654643A72201E
+[usbmuxd] Attached: 87 00008120-000654643A72201E
+[usbmuxd] Detached: 87 00008120-000654643A72201E
+[usbmuxd] Attached: 88 00008120-000654643A72201E
+[usbmuxd] Detached: 88 00008120-000654643A72201E
+[usbmuxd] Attached: 89 00008120-000654643A72201E
+[usbmuxd] Detached: 89 00008120-000654643A72201E
+[usbmuxd] Attached: 91 00008120-000654643A72201E
+[usbmuxd] Detached: 91 00008120-000654643A72201E
+[usbmuxd] Attached: 92 00008120-000654643A72201E
+[usbmuxd] Detached: 92 00008120-000654643A72201E
+[usbmuxd] Attached: 93 00008120-000654643A72201E
+[usbmuxd] Detached: 93 00008120-000654643A72201E
+[usbmuxd] Attached: 94 00008120-000654643A72201E
+[usbmuxd] Detached: 94 00008120-000654643A72201E
+[usbmuxd] Attached: 95 00008120-000654643A72201E
+[usbmuxd] Detached: 95 00008120-000654643A72201E
+[usbmuxd] Attached: 99 00008120-000654643A72201E
+[usbmuxd] Detached: 99 00008120-000654643A72201E
+[usbmuxd] Attached: 100 00008120-000654643A72201E
+[usbmuxd] Detached: 100 00008120-000654643A72201E
+[usbmuxd] Attached: 101 00008120-000654643A72201E
+[usbmuxd] Detached: 101 00008120-000654643A72201E
+[usbmuxd] Attached: 103 00008120-000654643A72201E
+[usbmuxd] Detached: 103 00008120-000654643A72201E
+[usbmuxd] Attached: 104 00008120-000654643A72201E
+[usbmuxd] Detached: 104 00008120-000654643A72201E
+[usbmuxd] Attached: 105 00008120-000654643A72201E
+[usbmuxd] Detached: 105 00008120-000654643A72201E
+[usbmuxd] Attached: 106 00008120-000654643A72201E
+[usbmuxd] Detached: 106 00008120-000654643A72201E
+[usbmuxd] Attached: 107 00008120-000654643A72201E
+[usbmuxd] Detached: 107 00008120-000654643A72201E
+[usbmuxd] Attached: 108 00008120-000654643A72201E
+[usbmuxd] Detached: 108 00008120-000654643A72201E
+[usbmuxd] Attached: 109 00008120-000654643A72201E
+[usbmuxd] Detached: 109 00008120-000654643A72201E
+[usbmuxd] Attached: 110 00008120-000654643A72201E
+[usbmuxd] Detached: 110 00008120-000654643A72201E
+[usbmuxd] Attached: 111 00008120-000654643A72201E
+[usbmuxd] Detached: 111 00008120-000654643A72201E
+[usbmuxd] Attached: 112 00008120-000654643A72201E
+[usbmuxd] Detached: 112 00008120-000654643A72201E
+[usbmuxd] Attached: 113 00008120-000654643A72201E
+[usbmuxd] Detached: 113 00008120-000654643A72201E
+[usbmuxd] Attached: 114 00008120-000654643A72201E
+[usbmuxd] Detached: 114 00008120-000654643A72201E
+[usbmuxd] Attached: 115 00008120-000654643A72201E
+[usbmuxd] Detached: 115 00008120-000654643A72201E
+[usbmuxd] Attached: 116 00008120-000654643A72201E
+[usbmuxd] Detached: 116 00008120-000654643A72201E
+[usbmuxd] Attached: 117 00008120-000654643A72201E
+[usbmuxd] Detached: 117 00008120-000654643A72201E
+[usbmuxd] Attached: 118 00008120-000654643A72201E
+[usbmuxd] Detached: 118 00008120-000654643A72201E
+[usbmuxd] Attached: 119 00008120-000654643A72201E
+[usbmuxd] Detached: 119 00008120-000654643A72201E
+[usbmuxd] Attached: 120 00008120-000654643A72201E
+[usbmuxd] Detached: 120 00008120-000654643A72201E
+[usbmuxd] Attached: 122 00008120-000654643A72201E
+[usbmuxd] Detached: 122 00008120-000654643A72201E
+[usbmuxd] Attached: 123 00008120-000654643A72201E
+[usbmuxd] Detached: 123 00008120-000654643A72201E
+[usbmuxd] Attached: 124 00008120-000654643A72201E
+[usbmuxd] Detached: 124 00008120-000654643A72201E
+[usbmuxd] Attached: 125 00008120-000654643A72201E
+[usbmuxd] Detached: 125 00008120-000654643A72201E
+[usbmuxd] Attached: 126 00008120-000654643A72201E
+[usbmuxd] Detached: 126 00008120-000654643A72201E
+[usbmuxd] Attached: 127 00008120-000654643A72201E
+[usbmuxd] Detached: 127 00008120-000654643A72201E
+[usbmuxd] Attached: 128 00008120-000654643A72201E
+[usbmuxd] Detached: 128 00008120-000654643A72201E
+[usbmuxd] Attached: 129 00008120-000654643A72201E
+[usbmuxd] Detached: 129 00008120-000654643A72201E
+[usbmuxd] Attached: 130 00008120-000654643A72201E
+[usbmuxd] Detached: 130 00008120-000654643A72201E
+[usbmuxd] Attached: 131 00008120-000654643A72201E
+[usbmuxd] Detached: 131 00008120-000654643A72201E
+[usbmuxd] Attached: 132 00008120-000654643A72201E
+[usbmuxd] Detached: 132 00008120-000654643A72201E
+[usbmuxd] Attached: 133 00008120-000654643A72201E
+[usbmuxd] Detached: 133 00008120-000654643A72201E
+[usbmuxd] Attached: 134 00008120-000654643A72201E
+[usbmuxd] Detached: 134 00008120-000654643A72201E
+[usbmuxd] Attached: 135 00008120-000654643A72201E
+[usbmuxd] Detached: 135 00008120-000654643A72201E
+[usbmuxd] Attached: 136 00008120-000654643A72201E
+[usbmuxd] Detached: 136 00008120-000654643A72201E
+[usbmuxd] Attached: 137 00008120-000654643A72201E
+[usbmuxd] Detached: 137 00008120-000654643A72201E
+[usbmuxd] Attached: 138 00008120-000654643A72201E
+[usbmuxd] Detached: 138 00008120-000654643A72201E
+[usbmuxd] Attached: 139 00008120-000654643A72201E
+[usbmuxd] Detached: 139 00008120-000654643A72201E
+[usbmuxd] Attached: 140 00008120-000654643A72201E
+[usbmuxd] Detached: 140 00008120-000654643A72201E
+[usbmuxd] Attached: 141 00008120-000654643A72201E
+[usbmuxd] Detached: 141 00008120-000654643A72201E
+[usbmuxd] Attached: 142 00008120-000654643A72201E
+[usbmuxd] Detached: 142 00008120-000654643A72201E
+[usbmuxd] Attached: 143 00008120-000654643A72201E
+[usbmuxd] Detached: 143 00008120-000654643A72201E
+[usbmuxd] Attached: 144 00008120-000654643A72201E
+[usbmuxd] Detached: 144 00008120-000654643A72201E
+[usbmuxd] Attached: 146 00008120-000654643A72201E
+[usbmuxd] Detached: 146 00008120-000654643A72201E
+[usbmuxd] Attached: 147 00008120-000654643A72201E
+[usbmuxd] Detached: 147 00008120-000654643A72201E
+[usbmuxd] Attached: 148 00008120-000654643A72201E
+[usbmuxd] Detached: 148 00008120-000654643A72201E
+[usbmuxd] Attached: 149 00008120-000654643A72201E
+[usbmuxd] Detached: 149 00008120-000654643A72201E

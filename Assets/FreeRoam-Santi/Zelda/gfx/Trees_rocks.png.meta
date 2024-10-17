@@ -1,0 +1,1389 @@
+fileFormatVersion: 2
+guid: 240b0cddd90af5d42a209d9d0cc72ed4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -486440195628618213
+    second: Trees_rocks_0
+  - first:
+      213: 8836797205436577192
+    second: Trees_rocks_1
+  - first:
+      213: 5459894583095715503
+    second: Trees_rocks_2
+  - first:
+      213: -9165993162564647963
+    second: Trees_rocks_3
+  - first:
+      213: 2859234042525731888
+    second: Trees_rocks_4
+  - first:
+      213: -8280323244060462987
+    second: Trees_rocks_5
+  - first:
+      213: 1488637196377823722
+    second: Trees_rocks_6
+  - first:
+      213: 8478739965728965373
+    second: Trees_rocks_7
+  - first:
+      213: 2244823579860874994
+    second: Trees_rocks_8
+  - first:
+      213: -950762635237805272
+    second: Trees_rocks_9
+  - first:
+      213: -5132909099097086355
+    second: Trees_rocks_10
+  - first:
+      213: -3044913596249200377
+    second: Trees_rocks_11
+  - first:
+      213: -3855891328293585737
+    second: Trees_rocks_12
+  - first:
+      213: 6846607113320711410
+    second: Trees_rocks_13
+  - first:
+      213: -5339307417061871908
+    second: Trees_rocks_14
+  - first:
+      213: -1663210974333014974
+    second: Trees_rocks_15
+  - first:
+      213: -4859738244318845850
+    second: Trees_rocks_16
+  - first:
+      213: -1442727405702070882
+    second: Trees_rocks_17
+  - first:
+      213: 2150500402056985409
+    second: Trees_rocks_18
+  - first:
+      213: 4429395900071525367
+    second: Trees_rocks_19
+  - first:
+      213: -3378793730418196981
+    second: Trees_rocks_20
+  - first:
+      213: 5982613234988829092
+    second: Trees_rocks_21
+  - first:
+      213: -2613509641054623297
+    second: Trees_rocks_22
+  - first:
+      213: 8220880824623299519
+    second: Trees_rocks_23
+  - first:
+      213: 8742865314853629472
+    second: Trees_rocks_24
+  - first:
+      213: 1020179218989924698
+    second: Trees_rocks_25
+  - first:
+      213: -2168220385872670423
+    second: Trees_rocks_26
+  - first:
+      213: 6239910108683634495
+    second: Trees_rocks_27
+  - first:
+      213: -5328328209517400354
+    second: Trees_rocks_28
+  - first:
+      213: -1079656519068126390
+    second: Trees_rocks_29
+  - first:
+      213: 34753171678220625
+    second: Trees_rocks_30
+  - first:
+      213: -3281666824954890798
+    second: Trees_rocks_31
+  - first:
+      213: 7581447697822034278
+    second: Trees_rocks_32
+  - first:
+      213: 8780002984658897838
+    second: Trees_rocks_33
+  - first:
+      213: -8918636251612579568
+    second: Trees_rocks_34
+  - first:
+      213: -8655586284877942719
+    second: Trees_rocks_35
+  - first:
+      213: 3617032554554866246
+    second: Trees_rocks_36
+  - first:
+      213: -6066015234518759887
+    second: Trees_rocks_37
+  - first:
+      213: 2845044805595936028
+    second: Trees_rocks_38
+  - first:
+      213: -369137434470279599
+    second: Trees_rocks_39
+  - first:
+      213: 6566255483478651086
+    second: Trees_rocks_40
+  - first:
+      213: 1135329445331901050
+    second: Trees_rocks_41
+  - first:
+      213: -187078030818608720
+    second: Trees_rocks_42
+  - first:
+      213: 1287615755737084010
+    second: Trees_rocks_43
+  - first:
+      213: -5243640091079378181
+    second: Trees_rocks_44
+  - first:
+      213: -5528199415721249155
+    second: Trees_rocks_45
+  - first:
+      213: -5143171842355814517
+    second: Trees_rocks_46
+  - first:
+      213: 8532207469353588389
+    second: Trees_rocks_47
+  - first:
+      213: -5717806104335632076
+    second: Trees_rocks_48
+  - first:
+      213: -2088689837163639435
+    second: Trees_rocks_49
+  - first:
+      213: -9144009283356602896
+    second: Trees_rocks_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trees_rocks_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 63
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ea5172831df39f0800000000000000
+      internalID: -486440195628618213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 468
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5363e2d3c92aa70800000000000000
+      internalID: 8836797205436577192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 465
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6ef70123175cb40800000000000000
+      internalID: 5459894583095715503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 470
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3ccab38c9dbc080800000000000000
+      internalID: -9165993162564647963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 417
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c437a763a0ea720800000000000000
+      internalID: 2859234042525731888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 419
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570bd5c61e1661d80800000000000000
+      internalID: -8280323244060462987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 383
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9988994a3b8a410800000000000000
+      internalID: 1488637196377823722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 415
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2ce2893198aa570800000000000000
+      internalID: 8478739965728965373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 416
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6370df627372f10800000000000000
+      internalID: 2244823579860874994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 418
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823bfecab663ec2f0800000000000000
+      internalID: -950762635237805272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66a2f3ae5e34c8b0800000000000000
+      internalID: -5132909099097086355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 383
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7092fc3873b4eb5d0800000000000000
+      internalID: -3044913596249200377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc3d8c244f1d7ac0800000000000000
+      internalID: -3855891328293585737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 384
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4c42a05e8040f50800000000000000
+      internalID: 6846607113320711410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde2b6b6138f6e5b0800000000000000
+      internalID: -5339307417061871908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 367
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c69505e661be8e0800000000000000
+      internalID: -1663210974333014974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 346
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664aef590ddbe8cb0800000000000000
+      internalID: -4859738244318845850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 337
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d386381176afbe0800000000000000
+      internalID: -1442727405702070882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_18
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 352
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bf0f9c8bc18dd10800000000000000
+      internalID: 2150500402056985409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 352
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbb5596a10687d30800000000000000
+      internalID: 4429395900071525367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 352
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e3b19f00d1c11d0800000000000000
+      internalID: -3378793730418196981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_21
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 357
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a94f0c3a03860350800000000000000
+      internalID: 5982613234988829092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 354
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb961e314d2fabbd0800000000000000
+      internalID: -2613509641054623297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_23
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 351
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbfd7ccd8f661270800000000000000
+      internalID: 8220880824623299519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 304
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e2fe2aea5e45970800000000000000
+      internalID: 8742865314853629472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 306
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5141233897682e00800000000000000
+      internalID: 1020179218989924698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 309
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9219c49fb0fe8e1e0800000000000000
+      internalID: -2168220385872670423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 324
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f370572fe2d989650800000000000000
+      internalID: 6239910108683634495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_28
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 306
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edea50169b9fd06b0800000000000000
+      internalID: -5328328209517400354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_29
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 308
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43728dbd1a4401f0800000000000000
+      internalID: -1079656519068126390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 323
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151d2b453d77b7000800000000000000
+      internalID: 34753171678220625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_31
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 303
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d53163e86d2572d0800000000000000
+      internalID: -3281666824954890798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 287
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669a2ef4386b63960800000000000000
+      internalID: 7581447697822034278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 242
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab86733236d8d970800000000000000
+      internalID: 8780002984658897838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 242
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019f5b50593aa3480800000000000000
+      internalID: -8918636251612579568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1407b17122e21e780800000000000000
+      internalID: -8655586284877942719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_36
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 240
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a344bc1f7423230800000000000000
+      internalID: 3617032554554866246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136c668884f21dba0800000000000000
+      internalID: -6066015234518759887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_38
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 224
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15bd9f4d21ab7720800000000000000
+      internalID: 2845044805595936028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_39
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 163
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1569919857f80eaf0800000000000000
+      internalID: -369137434470279599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_40
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 223
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0b43d9296002b50800000000000000
+      internalID: 6566255483478651086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 163
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a9c048d1081cf00800000000000000
+      internalID: 1135329445331901050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 49
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9f6cba58d576df0800000000000000
+      internalID: -187078030818608720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_43
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 111
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60b7ef25b78ed110800000000000000
+      internalID: 1287615755737084010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_44
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 47
+        width: 105
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa77318e19da37b0800000000000000
+      internalID: -5243640091079378181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_45
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 49
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76b96acbe3e743b0800000000000000
+      internalID: -5528199415721249155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_46
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 15
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f17958578cf98b0800000000000000
+      internalID: -5143171842355814517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a651c0ec7d786670800000000000000
+      internalID: 8532207469353588389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_48
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439b38074a546a0b0800000000000000
+      internalID: -5717806104335632076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_49
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 17
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d84e1d8ab7303e0800000000000000
+      internalID: -2088689837163639435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_rocks_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 17
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdc7aaf004f91180800000000000000
+      internalID: -9144009283356602896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 873d16e2f9f626248936e652ee836bb8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Trees_rocks_0: -486440195628618213
+      Trees_rocks_1: 8836797205436577192
+      Trees_rocks_10: -5132909099097086355
+      Trees_rocks_11: -3044913596249200377
+      Trees_rocks_12: -3855891328293585737
+      Trees_rocks_13: 6846607113320711410
+      Trees_rocks_14: -5339307417061871908
+      Trees_rocks_15: -1663210974333014974
+      Trees_rocks_16: -4859738244318845850
+      Trees_rocks_17: -1442727405702070882
+      Trees_rocks_18: 2150500402056985409
+      Trees_rocks_19: 4429395900071525367
+      Trees_rocks_2: 5459894583095715503
+      Trees_rocks_20: -3378793730418196981
+      Trees_rocks_21: 5982613234988829092
+      Trees_rocks_22: -2613509641054623297
+      Trees_rocks_23: 8220880824623299519
+      Trees_rocks_24: 8742865314853629472
+      Trees_rocks_25: 1020179218989924698
+      Trees_rocks_26: -2168220385872670423
+      Trees_rocks_27: 6239910108683634495
+      Trees_rocks_28: -5328328209517400354
+      Trees_rocks_29: -1079656519068126390
+      Trees_rocks_3: -9165993162564647963
+      Trees_rocks_30: 34753171678220625
+      Trees_rocks_31: -3281666824954890798
+      Trees_rocks_32: 7581447697822034278
+      Trees_rocks_33: 8780002984658897838
+      Trees_rocks_34: -8918636251612579568
+      Trees_rocks_35: -8655586284877942719
+      Trees_rocks_36: 3617032554554866246
+      Trees_rocks_37: -6066015234518759887
+      Trees_rocks_38: 2845044805595936028
+      Trees_rocks_39: -369137434470279599
+      Trees_rocks_4: 2859234042525731888
+      Trees_rocks_40: 6566255483478651086
+      Trees_rocks_41: 1135329445331901050
+      Trees_rocks_42: -187078030818608720
+      Trees_rocks_43: 1287615755737084010
+      Trees_rocks_44: -5243640091079378181
+      Trees_rocks_45: -5528199415721249155
+      Trees_rocks_46: -5143171842355814517
+      Trees_rocks_47: 8532207469353588389
+      Trees_rocks_48: -5717806104335632076
+      Trees_rocks_49: -2088689837163639435
+      Trees_rocks_5: -8280323244060462987
+      Trees_rocks_50: -9144009283356602896
+      Trees_rocks_6: 1488637196377823722
+      Trees_rocks_7: 8478739965728965373
+      Trees_rocks_8: 2244823579860874994
+      Trees_rocks_9: -950762635237805272
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

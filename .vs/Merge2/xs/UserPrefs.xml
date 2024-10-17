@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{EB439830-0C4F-21BF-E1CF-8E7D27364BDB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FreeRoam-Santi/Scripts/TrainerController.cs">
+    <Files>
+      <File FileName="Assets/FreeRoam-Santi/Scripts/PlayerControl.cs" Line="10" Column="34" IsPinned="True" />
+      <File FileName="Assets/Pokemon-Ayush/Scripts/Battle/BattleSystem.cs" />
+      <File FileName="Assets/FreeRoam-Santi/Scripts/GameControl.cs" />
+      <File FileName="Assets/FreeRoam-Santi/Scripts/TrainerController.cs" Line="111" Column="10" />
+      <File FileName="Assets/FreeRoam-Santi/Scripts/AutoPlayerSorting.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Merge2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="FreeRoam-Santi" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="TrainerController.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Pokemon-Ayush" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Battle" expanded="True" />
+                  <Node name="Pokemon Scripts" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>this.pokemons</Value>
+          <Value>memberSlots[5]</Value>
+          <Value>memberSlots[4]</Value>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4dab97c9-57b4-4312-b690-200ab93f7910" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ayushbhanot/Documents/SE2250/Merge2/Assets/FreeRoam-Santi/Scripts/GameControl.cs" relfile="Assets/FreeRoam-Santi/Scripts/GameControl.cs" line="101" column="1" />
+      <Breakpoint file="/Users/ayushbhanot/Documents/SE2250/Merge2/Assets/FreeRoam-Santi/Scripts/GameControl.cs" relfile="Assets/FreeRoam-Santi/Scripts/GameControl.cs" line="153" column="1" />
+      <Breakpoint file="/Users/ayushbhanot/Documents/SE2250/Merge2/Assets/FreeRoam-Santi/Scripts/GameControl.cs" relfile="Assets/FreeRoam-Santi/Scripts/GameControl.cs" line="147" column="1" />
+      <Breakpoint file="/Users/ayushbhanot/Documents/SE2250/Merge2/Assets/FreeRoam-Santi/Scripts/TrainerController.cs" relfile="Assets/FreeRoam-Santi/Scripts/TrainerController.cs" line="34" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

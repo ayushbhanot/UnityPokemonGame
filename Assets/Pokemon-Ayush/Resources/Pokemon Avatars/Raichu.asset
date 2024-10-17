@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0789c39fb5c54a70bb7f4749902f3d8, type: 3}
+  m_Name: Raichu
+  m_EditorClassIdentifier: 
+  name: Raichu
+  description: 
+  frontEnd: {fileID: 9100000, guid: 64184e9e0642841859e733f20199c807, type: 2}
+  backEnd: {fileID: 9100000, guid: 74e1ad8aeed1c4a5b904cb9b657bd4ca, type: 2}
+  type1: 8
+  type2: 0
+  maxhp: 60
+  attackdamage: 90
+  defense: 55
+  spattack: 90
+  catchRate: 240
+  expYield: 180
+  growthRate: 0
+  evolutions: []
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: da917e8f578ce48f2bb30fc28163351f, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 03533e6aafabf45799ef7808a6e4352d, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: aa7ea2f79e118416f8335ef70c6d636d, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 1c7947912a8b94e7883f8ac905d6a834, type: 2}
+    level: 10

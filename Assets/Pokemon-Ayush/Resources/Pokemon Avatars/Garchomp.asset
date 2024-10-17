@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0789c39fb5c54a70bb7f4749902f3d8, type: 3}
+  m_Name: Garchomp
+  m_EditorClassIdentifier: 
+  name: Garchomp
+  description: Gabite Evolution
+  frontEnd: {fileID: 9100000, guid: bb069239a0fe84a7fa4459c27b4f663c, type: 2}
+  backEnd: {fileID: 9100000, guid: b5bd688cdb58d41d0a6a8b6360fd4c0d, type: 2}
+  type1: 3
+  type2: 0
+  maxhp: 108
+  attackdamage: 130
+  defense: 95
+  spattack: 80
+  catchRate: 240
+  expYield: 300
+  growthRate: 1
+  evolutions: []
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: da917e8f578ce48f2bb30fc28163351f, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 2f986e58689764476885cb4470d61336, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 146d420a40cfd45e69f9d0e75b1d0e51, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 1f1db82e24cc2447694f68b218f00970, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: ce3b1fe90dbe8434e995b3d6622d641e, type: 2}
+    level: 15
